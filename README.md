@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 4th-year BSIT student and a vibe coder who’s deeply curious about how technology works. That curiosity pushes me to explore, experiment, and try different methods of learning. With the help of AI, I challenge myself to understand new concepts, solve problems, and continuously improve my skills. I enjoy discovering how things work behind the scenes and growing as a future IT professional.
+I’m a 4th-year BSIT student who’s deeply curious about how technology works. That curiosity pushes me to explore, experiment, and try different methods of learning. With the help of AI, I challenge myself to understand new concepts, solve problems, and continuously improve my skills. I enjoy discovering how things work behind the scenes and growing as a future IT professional.
 
 
 ## 🌐 Socials:
